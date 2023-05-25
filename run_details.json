@@ -1,0 +1,1 @@
+{"device": "cuda", "epoch": 100, "pre_epoch": 0, "model": "classic_resnet", "optimizer": "sgd", "scheduler": true, "model_params_count": 11173962, "train_batch_size": 128, "validation_batch_size": 100, "lr": 0.01, "momentum": 0.9, "weight_decay": 0.0005, "t_max": 200, "img_channel": 3, "num_classes": 10}
